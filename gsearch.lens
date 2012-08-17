@@ -1,0 +1,11 @@
+[Lens]
+DBusName=unity.singlet.lens.gsearch
+DBusPath=/unity/singlet/lens/gsearch
+Name=Gsearch
+Icon=/usr/share/unity/lenses/gsearch/unity-lens-gsearch.svg
+Description=Gsearch Lens
+SearchHint=Search Gsearch
+#Shortcut=c
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=gsearch
